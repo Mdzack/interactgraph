@@ -7,7 +7,7 @@ layout: default
 ---
 
 <p align="center">
-  <img src="Admin/Tutorial_Header.png" />
+  <img src="Tutorial_Header.png" />
 </p>
 
 
