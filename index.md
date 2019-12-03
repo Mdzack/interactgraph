@@ -1,11 +1,9 @@
 ---
-layout: post
-title: Intro to Plotly
-subtitle: Learning to create interactive plots with Plotly
-date: 2019-11-29 08:00:00
-author: Maia Zack
-meta: "Tutorials"
-tags: data visualisation
+title: "Intro to Interactive Graphs"
+subtitle: Learning to create interactive plots with Plotly 
+author: "Maia Zack"
+date: 3 December 2019
+layout: default
 ---
 
 <p align="center">
